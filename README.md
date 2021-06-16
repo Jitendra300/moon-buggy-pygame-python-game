@@ -10,6 +10,10 @@
 - The following shows the recreated version of the famous old moon buggy game from the old times.
 - This projects was inspired by moon buggy in the terminal
 
+## New Features:
+- The official moon buggy game included an car and some moon rocks destorying it (this was in the terminal based).
+- But this includes and astronaut in the place of the car who need to jump to in order to save his life.
+
 ## Installation:
 ```
 git clone https://github.com/Jitendra300/moon-buggy-pygame-python-game
@@ -17,3 +21,9 @@ git clone https://github.com/Jitendra300/moon-buggy-pygame-python-game
 ```
 cd moon-buggy-pygame-python-game
 ```
+
+## Feedback:
+If you have an feedback for this project you may give me, kindly note this is my first github project (a new start in life).
+
+## Contribute:
+I think not many will take this project seriously and the thus I would wish if you want to contribute to this project you can contribute it.
